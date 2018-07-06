@@ -1,1 +1,1 @@
-web: java -jar target/my-tinder-1.0-SNAPSHOT.jar port=$PORT
+web: java -cp target/classes:target/dependency/* ua.danit.AppRunner port=$PORT
