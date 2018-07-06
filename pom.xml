@@ -45,7 +45,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>ua.danit.utils.ApplicationRunner</mainClass>
+              <mainClass>ua.danit.AppRunner</mainClass>
             </manifest>
           </archive>
           <descriptorRefs>
