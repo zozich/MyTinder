@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT -jar target/my-tinder-1.0-SNAPSHOT.jar
+web: java -Dserver.port=$PORT -jar my-tinder-1.0-SNAPSHOT-jar-with-dependencies.jar
